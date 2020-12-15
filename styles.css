@@ -38,5 +38,10 @@ a:hover{
     opacity: 0.5;
 font-size:1rem;
   color: #4ECCA3;
+  padding: 1% 2%;
 }
+footer{
+  padding-top: 4%;
+}
+
 
