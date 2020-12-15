@@ -39,25 +39,4 @@ a:hover{
 font-size:1rem;
   color: #4ECCA3;
 }
-@media (max-width:1028px){
-  h1{
-    font-size: 2rem;
-    font-family: 'Lobster', cursive;
-    margin: auto;
-    padding: 2%;
-  }
-  p{
-    font-size: 2rem;
-    padding: 1% 2%;
-  }
-  .img1{
-    display: block;
-    width: 150px;
-    height: 150px;
-  }
-  .img2{
-    display: block;
-    width: 150px;
-    height: 150px;
-  }
-}
+
